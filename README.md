@@ -1,4 +1,4 @@
-[![MasterHead](https://www.talent-works.com/wp-content/uploads/2021/03/3981-TW-Blog-Why-Hire-a-DevOps-engineer_BLOG-HEADER-1920x629-v1.png)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGELhyhpQRO9Q/profile-displaybackgroundimage-shrink_200_800/0/1684401244253?e=2147483647&v=beta&t=gs8DuWUTJpYOFhrlKLZ_z9AdCJdzODNCbdjnlayhoak)
 <h1 align="center">Hi 👋, I'm Mucahit Meletli</h1>
 <h3 align="center">A Devops Engineer</h3>
 
