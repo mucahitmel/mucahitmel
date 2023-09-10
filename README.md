@@ -1,4 +1,4 @@
-https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0f091fc73b7a5828854b1_022021-Harness-Blogpost-DevOpsGeneric-Header-2400x700-1-p-1080.png
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.toptal.com%2Finsights%2Finnovation%2Fwhat-is-devops&psig=AOvVaw2K_5cpJWcGilqF_w1bBfHO&ust=1694465714619000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIip8-n2oIEDFQAAAAAdAAAAABAJ
 <h1 align="center">Hi 👋, I'm Mucahit Meletli</h1>
 <h3 align="center">A Devops Engineer</h3>
 
