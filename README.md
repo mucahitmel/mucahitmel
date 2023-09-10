@@ -1,4 +1,4 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.toptal.com%2Finsights%2Finnovation%2Fwhat-is-devops&psig=AOvVaw2K_5cpJWcGilqF_w1bBfHO&ust=1694465714619000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIip8-n2oIEDFQAAAAAdAAAAABAJ
+[![MasterHead]https://www.talent-works.com/wp-content/uploads/2021/03/3981-TW-Blog-Why-Hire-a-DevOps-engineer_BLOG-HEADER-1920x629-v1.png
 <h1 align="center">Hi 👋, I'm Mucahit Meletli</h1>
 <h3 align="center">A Devops Engineer</h3>
 
